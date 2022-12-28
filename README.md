@@ -13,6 +13,7 @@ STEP 2: Run the command "npm start"
 
 : the following will be seen-
 > weatherapp@1.0.0 start
+> 
 > node src/app.js       
 
 Server is up and running on port:  3000
