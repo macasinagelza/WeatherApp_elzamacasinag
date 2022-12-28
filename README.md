@@ -1,4 +1,4 @@
-# Elza Macasinag - weather app (BSIT 3-3)
+# Weather app_ ELZA MACASINAG
 
 Here's what it looks like:
 
