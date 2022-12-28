@@ -10,6 +10,7 @@ HOW TO RUN THE CODE:
 STEP 1: Make sure that you open your vs code terminal (ctrl + j)
 
 STEP 2: Run the command "npm start"
+
 : the following will be seen-
 > weatherapp@1.0.0 start
 > node src/app.js       
